@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente apenas estudando e aprendendo.
 - 📘 Tentando aprender a base da computação.
-- 👯 Procurando colaborar no mundo open-source.
 - 🤔 Indo em busca de projetos inovadores 🚀
 - 💬 Fale comigo se tiver uma grande ideia.
 - 📫 Entre em contato comigo pelo GitHub.
