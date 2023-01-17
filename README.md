@@ -8,4 +8,3 @@
 
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Vinleit&show_icons=true&theme=radical'>
